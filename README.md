@@ -1,5 +1,3 @@
-# simple-projects-skeleton
-
 <h1 align="center">💀 Simple Projects Skeleton 💀</h1>
 <p align="center"><i>Skeleton to get time when creating new simple projects</i></p>
 
